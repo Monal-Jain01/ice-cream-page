@@ -8,5 +8,4 @@ export default defineConfig({
      tailwindcss(),
      
   ],
-  base: '/ice-cream-page'
 })

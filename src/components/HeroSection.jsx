@@ -40,7 +40,7 @@ export default function HeroSection({ ice_cream, selected, setSelected }) {
           <img
             src={selected.image}
             alt={selected.title}
-            className="w-full h-full object-contain drop-shadow-2xl"
+            className="w-full h-full transition- object-contain drop-shadow-2xl"
           />
         </div>
       </div>
